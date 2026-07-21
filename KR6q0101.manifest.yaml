@@ -24,17 +24,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6q0101_000.yaml, hash: 'sha256:cc8f2ed4034b599814c0c0abe591744623e316dd0d405f9decbd9d5efca27ecc'}
+  - {seq: 0, filename: KR6q0101_000.yaml, hash: 'sha256:237ec0a0d12833ea78e2fc9c151e358be0327f6f4ae0993e934ad01237ca44dc'}
   - {seq: 1, filename: KR6q0101_001.yaml, hash: 'sha256:2f72d2fe9c265eb8c32d297c23678da79b33fba378c8e988b9f0b8a893eef4b5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0101_000.markers.yaml, hash: 'sha256:18ad7dcfd663795c1fcd3e06c6fd600d7f25f355ce89cd0b9ca0db257a08fef0'}
+  - {seq: 0, role: markers, filename: assets/KR6q0101_000.markers.yaml, hash: 'sha256:d578e658d6c5aa382229b11e00c2b5ace4842a22044cfda2028c89fe60d6de3a'}
   - {seq: 1, role: markers, filename: assets/KR6q0101_001.markers.yaml, hash: 'sha256:810ee7f08ad9507126bc5f39f949128698b9edd32e8c572c9dfa12482efcb5e3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0101_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 禪關策進序
@@ -1200,7 +1200,7 @@ table_of_contents:
   label: 心賦
   type: mulu
   level: 1
-hash: sha256:7f3f0ac3ae3f89b95ca575c0f84dc320237ac21b6fefd608bc0ea586c79d8c21
+hash: sha256:c36a9549644ef28e6c169d58c54db4b83cf7a4f45569e70f98b6e4f03b18649d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

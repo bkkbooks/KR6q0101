@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6q0101/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 禪關策進序禪曷為有關乎道無內外無出入而人之為道也有迷悟於是大知識關吏不得不時其啓閉慎其鎖鑰嚴其勘核俾異言服私越度者無所售其姦而關之不易透亦已久矣豫初出家得一帙於坊間曰禪門佛祖綱目中所載多古尊宿自敘其參學時始之難入中之做工夫經歷勞苦次第與終之廓爾神悟心愛之慕之願學焉既而此書於他處更不再見乃續閲五燈諸語録雜傳無論緇素但實參實悟者併入前帙刪繁取要彙之成編易名曰禪關策進居則置案行則携囊一覽之則心志激勵神采煥發勢自鞭逼前進或曰是編也為未過關者設也已過關者長往矣將安用之雖然關之外有重關焉託偽於雞聲暫離於虎口得少為足是為增上慢人水未窮山未盡警策在手疾驅而長馳破最後之幽關徐而作罷參齋未晚也萬曆二十八年歲次庚子孟春日雲棲袾宏識
   hash: sha256:13561645ec858ae47b65699a146e30878cfd37eae3858db155ef4fc2808cbc68
   markers:
   - {type: 序, offset: 0, content: 禪關策進序, id: KR6q0101_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 禪關策進
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T48/T48n2024.xml
     old_id: T48n2024
-hash: sha256:cc8f2ed4034b599814c0c0abe591744623e316dd0d405f9decbd9d5efca27ecc
+hash: sha256:237ec0a0d12833ea78e2fc9c151e358be0327f6f4ae0993e934ad01237ca44dc
